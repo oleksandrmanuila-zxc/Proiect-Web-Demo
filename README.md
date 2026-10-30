@@ -80,8 +80,8 @@ git --version
 ### Pasul 2 – Configurarea identității Git
 
 ```bash
-git config --global user.name "Numele Prenumele"
-git config --global user.email "email@example.com"
+git config --global user.name "Manuila Oleksandr"
+git config --global user.email "oleksandr.manuila@student.usv.ro"
 ```
 
 ### Pasul 3 – Clonarea repository-ului
